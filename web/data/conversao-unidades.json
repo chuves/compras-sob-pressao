@@ -1,0 +1,9 @@
+{
+  "_comment": "Unidades de volume/massa com fator fixo de conversão, independente do ingrediente. Unidades de contagem (unidade, dente, folha, lata, vidro, caixa, pacote, ramo, pau, pitada, fio, punhado, cabeca, maco, medida) não têm conversão universal — ficam como contagem no carrinho.",
+  "colher_cha": { "ml": 5 },
+  "colher_sopa": { "ml": 15 },
+  "xicara": { "ml": 240 },
+  "l": { "ml": 1000 },
+  "kg": { "g": 1000 },
+  "oz": { "g": 28.35 }
+}

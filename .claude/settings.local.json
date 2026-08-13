@@ -1,0 +1,23 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:www.receitasnapressao.com.br)",
+      "WebFetch(domain:www.pressurecookrecipes.com)",
+      "WebFetch(domain:www.veganricha.com)",
+      "WebFetch(domain:www.tudogostoso.com.br)",
+      "WebFetch(domain:www.wellplated.com)",
+      "WebFetch(domain:rainbowplantlife.com)",
+      "WebFetch(domain:ministryofcurry.com)",
+      "WebFetch(domain:wholefully.com)",
+      "WebFetch(domain:minimalistbaker.com)",
+      "WebFetch(domain:www.philco.com.br)",
+      "WebFetch(domain:www.mydaintysoulcurry.com)",
+      "WebFetch(domain:mygoodnesskitchen.com)",
+      "WebSearch",
+      "Bash(grep -v \"^\\\\./\\\\.git\")",
+      "Bash(npx tsx *)",
+      "Bash(node -e ' *)",
+      "Read(//tmp/**)"
+    ]
+  }
+}

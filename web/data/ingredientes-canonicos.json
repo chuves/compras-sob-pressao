@@ -1,0 +1,1377 @@
+[
+  {
+    "id": "1_4_xicara_de_agua",
+    "nome": "1 4 Xícara De Água",
+    "categoriaCorredor": "agua_e_gelo"
+  },
+  {
+    "id": "abacate",
+    "nome": "Abacate",
+    "categoriaCorredor": "hortifruti"
+  },
+  {
+    "id": "abobora_butternut",
+    "nome": "Abóbora Butternut",
+    "categoriaCorredor": "hortifruti"
+  },
+  {
+    "id": "abobrinha_grossas",
+    "nome": "Abobrinha Grossas",
+    "categoriaCorredor": "hortifruti"
+  },
+  {
+    "id": "acucar",
+    "nome": "Açúcar",
+    "categoriaCorredor": "mercearia"
+  },
+  {
+    "id": "acucar_de_confeiteiro",
+    "nome": "Açúcar De Confeiteiro",
+    "categoriaCorredor": "mercearia"
+  },
+  {
+    "id": "acucar_extra",
+    "nome": "Açúcar Extra",
+    "categoriaCorredor": "mercearia"
+  },
+  {
+    "id": "acucar_mascavo",
+    "nome": "Açúcar Mascavo",
+    "categoriaCorredor": "mercearia"
+  },
+  {
+    "id": "acucar_mascavo_em_bloco_pedacos",
+    "nome": "Açúcar Mascavo Em Bloco Pedaços",
+    "categoriaCorredor": "mercearia"
+  },
+  {
+    "id": "adocante",
+    "nome": "Adoçante",
+    "categoriaCorredor": "mercearia"
+  },
+  {
+    "id": "agua",
+    "nome": "Água",
+    "categoriaCorredor": "agua_e_gelo"
+  },
+  {
+    "id": "agua_fria_ou_caldo_sem_sal",
+    "nome": "Água Fria Ou Caldo Sem Sal",
+    "categoriaCorredor": "agua_e_gelo"
+  },
+  {
+    "id": "ajwain",
+    "nome": "Ajwain",
+    "categoriaCorredor": "temperos_e_especiarias"
+  },
+  {
+    "id": "alho",
+    "nome": "Alho",
+    "categoriaCorredor": "hortifruti"
+  },
+  {
+    "id": "alho_conforme_a_quantidade_indicada_na_fonte",
+    "nome": "Alho Conforme A Quantidade Indicada Na Fonte",
+    "categoriaCorredor": "hortifruti"
+  },
+  {
+    "id": "alho_em_po",
+    "nome": "Alho em pó",
+    "categoriaCorredor": "hortifruti"
+  },
+  {
+    "id": "alho_em_po_e_1_2_de_cebola_em_po",
+    "nome": "Alho Em Pó E 1 2 De Cebola Em Pó",
+    "categoriaCorredor": "hortifruti"
+  },
+  {
+    "id": "allspice_pimenta-da-jamaica",
+    "nome": "Allspice Pimenta-da-jamaica",
+    "categoriaCorredor": "temperos_e_especiarias"
+  },
+  {
+    "id": "amendoim",
+    "nome": "Amendoim",
+    "categoriaCorredor": "mercearia"
+  },
+  {
+    "id": "amendoim_ou_castanha_de_caju",
+    "nome": "Amendoim Ou Castanha De Caju",
+    "categoriaCorredor": "mercearia"
+  },
+  {
+    "id": "amido",
+    "nome": "Amido",
+    "categoriaCorredor": "mercearia"
+  },
+  {
+    "id": "amido_3_colheres_de_agua",
+    "nome": "Amido + 3 Colheres De Água",
+    "categoriaCorredor": "agua_e_gelo"
+  },
+  {
+    "id": "amido_de_milho",
+    "nome": "Amido De Milho",
+    "categoriaCorredor": "hortifruti"
+  },
+  {
+    "id": "arroz_arboreo",
+    "nome": "Arroz Arbóreo",
+    "categoriaCorredor": "proteinas_vegetais"
+  },
+  {
+    "id": "arroz_basmati_branco_de_grao_longo",
+    "nome": "Arroz Basmati Branco De Grão Longo",
+    "categoriaCorredor": "proteinas_vegetais"
+  },
+  {
+    "id": "arroz_basmati_integral",
+    "nome": "Arroz Basmati Integral",
+    "categoriaCorredor": "proteinas_vegetais"
+  },
+  {
+    "id": "arroz_branco",
+    "nome": "Arroz Branco",
+    "categoriaCorredor": "proteinas_vegetais"
+  },
+  {
+    "id": "arroz_glutinoso",
+    "nome": "Arroz Glutinoso",
+    "categoriaCorredor": "proteinas_vegetais"
+  },
+  {
+    "id": "arroz_jasmim",
+    "nome": "Arroz Jasmim",
+    "categoriaCorredor": "proteinas_vegetais"
+  },
+  {
+    "id": "assa-fetida",
+    "nome": "Assa-fétida",
+    "categoriaCorredor": "temperos_e_especiarias"
+  },
+  {
+    "id": "ate_30_ml_de_maple_syrup",
+    "nome": "Até 30 Ml De Maple Syrup",
+    "categoriaCorredor": "mercearia"
+  },
+  {
+    "id": "azeite",
+    "nome": "Azeite",
+    "categoriaCorredor": "mercearia"
+  },
+  {
+    "id": "azeite_de_dende",
+    "nome": "Azeite De Dendê",
+    "categoriaCorredor": "mercearia"
+  },
+  {
+    "id": "azeite_ou_manteiga",
+    "nome": "Azeite Ou Manteiga",
+    "categoriaCorredor": "laticinios_e_ovos"
+  },
+  {
+    "id": "azeite_se_assar_a_abobora",
+    "nome": "Azeite Se Assar A Abóbora",
+    "categoriaCorredor": "hortifruti"
+  },
+  {
+    "id": "baby_kale_espinafre",
+    "nome": "Baby Kale Espinafre",
+    "categoriaCorredor": "hortifruti"
+  },
+  {
+    "id": "banana",
+    "nome": "Bananas Maduras",
+    "categoriaCorredor": "hortifruti"
+  },
+  {
+    "id": "batata",
+    "nome": "Batata",
+    "categoriaCorredor": "hortifruti"
+  },
+  {
+    "id": "batata_amarela",
+    "nome": "Batata Amarela",
+    "categoriaCorredor": "hortifruti"
+  },
+  {
+    "id": "batata_amarela_ou_russet",
+    "nome": "Batata Amarela Ou Russet",
+    "categoriaCorredor": "hortifruti"
+  },
+  {
+    "id": "batata_yukon_ou_2",
+    "nome": "Batata Yukon Ou 2",
+    "categoriaCorredor": "hortifruti"
+  },
+  {
+    "id": "batata_doce",
+    "nome": "Batata-doce",
+    "categoriaCorredor": "hortifruti"
+  },
+  {
+    "id": "batatas-doces",
+    "nome": "Batatas-doces",
+    "categoriaCorredor": "hortifruti"
+  },
+  {
+    "id": "batatinhas",
+    "nome": "Batatinhas",
+    "categoriaCorredor": "hortifruti"
+  },
+  {
+    "id": "baunilha",
+    "nome": "Baunilha (extrato)",
+    "categoriaCorredor": "mercearia"
+  },
+  {
+    "id": "besan",
+    "nome": "Besan",
+    "categoriaCorredor": "mercearia"
+  },
+  {
+    "id": "beterraba",
+    "nome": "Beterrabas",
+    "categoriaCorredor": "hortifruti"
+  },
+  {
+    "id": "bicarbonato",
+    "nome": "Bicarbonato",
+    "categoriaCorredor": "mercearia"
+  },
+  {
+    "id": "bouquet_garni_2_louros_salsa_tomilho",
+    "nome": "Bouquet Garni: 2 Louros + Salsa + Tomilho",
+    "categoriaCorredor": "hortifruti"
+  },
+  {
+    "id": "brocolis_em_floretes",
+    "nome": "Brócolis Em Floretes",
+    "categoriaCorredor": "hortifruti"
+  },
+  {
+    "id": "chocolate_em_po",
+    "nome": "Cacau Em Pó",
+    "categoriaCorredor": "mercearia"
+  },
+  {
+    "id": "caixa_de_leite_de_coco",
+    "nome": "Caixa De Leite De Coco",
+    "categoriaCorredor": "hortifruti"
+  },
+  {
+    "id": "caldo_de_legumes_caseiro",
+    "nome": "Caldo de legumes caseiro",
+    "categoriaCorredor": "mercearia"
+  },
+  {
+    "id": "canela",
+    "nome": "Canela em pau",
+    "categoriaCorredor": "temperos_e_especiarias"
+  },
+  {
+    "id": "canela_em_po",
+    "nome": "Canela em pó",
+    "categoriaCorredor": "temperos_e_especiarias"
+  },
+  {
+    "id": "canela_ou_1_colher_de_canela",
+    "nome": "Canela Ou 1 Colher De Canela",
+    "categoriaCorredor": "temperos_e_especiarias"
+  },
+  {
+    "id": "canjica",
+    "nome": "Canjica",
+    "categoriaCorredor": "mercearia"
+  },
+  {
+    "id": "caramelo_100_g_de_acucar_branco_30_ml_de_agua_fria",
+    "nome": "Caramelo: 100 G De Açúcar Branco + 30 Ml De Água Fria",
+    "categoriaCorredor": "agua_e_gelo"
+  },
+  {
+    "id": "castanha_de_caju",
+    "nome": "Castanha De Caju Crua",
+    "categoriaCorredor": "mercearia"
+  },
+  {
+    "id": "cebola",
+    "nome": "Cebola",
+    "categoriaCorredor": "hortifruti"
+  },
+  {
+    "id": "cebola_em_po",
+    "nome": "Cebola em pó",
+    "categoriaCorredor": "hortifruti"
+  },
+  {
+    "id": "cebolinha",
+    "nome": "Cebolinha",
+    "categoriaCorredor": "hortifruti"
+  },
+  {
+    "id": "cenoura",
+    "nome": "Cenoura",
+    "categoriaCorredor": "hortifruti"
+  },
+  {
+    "id": "chalota",
+    "nome": "Chalota",
+    "categoriaCorredor": "hortifruti"
+  },
+  {
+    "id": "chalota_opcional",
+    "nome": "Chalota Opcional",
+    "categoriaCorredor": "hortifruti"
+  },
+  {
+    "id": "cheddar_forte",
+    "nome": "Cheddar Forte",
+    "categoriaCorredor": "laticinios_e_ovos"
+  },
+  {
+    "id": "cheddar_suave",
+    "nome": "Cheddar Suave",
+    "categoriaCorredor": "laticinios_e_ovos"
+  },
+  {
+    "id": "cheia_de_couve-flor",
+    "nome": "Cheia De Couve-flor",
+    "categoriaCorredor": "hortifruti"
+  },
+  {
+    "id": "chenpi_-_casca_seca_de_tangerina",
+    "nome": "Chenpi - Casca Seca De Tangerina",
+    "categoriaCorredor": "temperos_e_especiarias"
+  },
+  {
+    "id": "chili_em_po",
+    "nome": "Chili em pó",
+    "categoriaCorredor": "temperos_e_especiarias"
+  },
+  {
+    "id": "chili_kashmiri",
+    "nome": "Chili Kashmiri",
+    "categoriaCorredor": "temperos_e_especiarias"
+  },
+  {
+    "id": "chili_powder_ou_1_2_colher_de_chipotle_ou_ambos",
+    "nome": "Chili Powder Ou 1 2 Colher De Chipotle, Ou Ambos",
+    "categoriaCorredor": "temperos_e_especiarias"
+  },
+  {
+    "id": "chipotle",
+    "nome": "Chipotle",
+    "categoriaCorredor": "mercearia"
+  },
+  {
+    "id": "chocolate_amargo_70",
+    "nome": "Chocolate Amargo 70%",
+    "categoriaCorredor": "mercearia"
+  },
+  {
+    "id": "cobertura_01_1_colher_de_manteiga_ou_margarina",
+    "nome": "COBERTURA 01 : 1 Colher De Manteiga Ou Margarina",
+    "categoriaCorredor": "laticinios_e_ovos"
+  },
+  {
+    "id": "cobertura_02_alternativa_sem_leite_condensado_1_xicara_de_leite",
+    "nome": "COBERTURA 02, Alternativa Sem Leite Condensado : 1 Xícara De Leite",
+    "categoriaCorredor": "laticinios_e_ovos"
+  },
+  {
+    "id": "coberturas",
+    "nome": "Coberturas",
+    "categoriaCorredor": "mercearia"
+  },
+  {
+    "id": "coco_em_flocos",
+    "nome": "Coco Em Flocos",
+    "categoriaCorredor": "hortifruti"
+  },
+  {
+    "id": "coco_em_flocos_seco_ou_fresco",
+    "nome": "Coco Em Flocos , Seco Ou Fresco",
+    "categoriaCorredor": "hortifruti"
+  },
+  {
+    "id": "coco_em_flocos_grossos",
+    "nome": "Coco Em Flocos Grossos",
+    "categoriaCorredor": "hortifruti"
+  },
+  {
+    "id": "coconut_aminos",
+    "nome": "Coconut Aminos",
+    "categoriaCorredor": "mercearia"
+  },
+  {
+    "id": "coentro",
+    "nome": "Coentro (folhas frescas)",
+    "categoriaCorredor": "hortifruti"
+  },
+  {
+    "id": "coentro_em_po",
+    "nome": "Coentro em pó",
+    "categoriaCorredor": "hortifruti"
+  },
+  {
+    "id": "cogumelo_paris_fresco",
+    "nome": "Cogumelo Paris Fresco",
+    "categoriaCorredor": "hortifruti"
+  },
+  {
+    "id": "cogumelo_shiitake_seco",
+    "nome": "Cogumelo Shiitake Seco",
+    "categoriaCorredor": "hortifruti"
+  },
+  {
+    "id": "cogumelos",
+    "nome": "Cogumelos",
+    "categoriaCorredor": "hortifruti"
+  },
+  {
+    "id": "cogumelos_brancos",
+    "nome": "Cogumelos Brancos",
+    "categoriaCorredor": "hortifruti"
+  },
+  {
+    "id": "cogumelos_cremini",
+    "nome": "Cogumelos Cremini",
+    "categoriaCorredor": "hortifruti"
+  },
+  {
+    "id": "combinacao_de_vegetais",
+    "nome": "Combinação De Vegetais",
+    "categoriaCorredor": "outros"
+  },
+  {
+    "id": "cominho",
+    "nome": "Cominho",
+    "categoriaCorredor": "temperos_e_especiarias"
+  },
+  {
+    "id": "cominho_em_po",
+    "nome": "Cominho Em Pó",
+    "categoriaCorredor": "temperos_e_especiarias"
+  },
+  {
+    "id": "cominho_ou_parte_coentro",
+    "nome": "Cominho, Ou Parte Coentro",
+    "categoriaCorredor": "hortifruti"
+  },
+  {
+    "id": "couve-flor_assada_2_colheres_de_oleo",
+    "nome": "COUVE-FLOR ASSADA: 2 Colheres De Óleo",
+    "categoriaCorredor": "hortifruti"
+  },
+  {
+    "id": "couve-flor_em_florzinhas",
+    "nome": "Couve-flor, Em Florzinhas",
+    "categoriaCorredor": "hortifruti"
+  },
+  {
+    "id": "cravo",
+    "nome": "Cravos-da-índia",
+    "categoriaCorredor": "temperos_e_especiarias"
+  },
+  {
+    "id": "cream_cheese",
+    "nome": "Cream Cheese",
+    "categoriaCorredor": "laticinios_e_ovos"
+  },
+  {
+    "id": "creme_de_leite",
+    "nome": "Creme de leite",
+    "categoriaCorredor": "laticinios_e_ovos"
+  },
+  {
+    "id": "creme_de_leite_fresco",
+    "nome": "Creme De Leite Fresco",
+    "categoriaCorredor": "laticinios_e_ovos"
+  },
+  {
+    "id": "creme_vegetal",
+    "nome": "Creme Vegetal",
+    "categoriaCorredor": "mercearia"
+  },
+  {
+    "id": "croutons_pao",
+    "nome": "Croutons Pão",
+    "categoriaCorredor": "padaria"
+  },
+  {
+    "id": "curcuma",
+    "nome": "Cúrcuma",
+    "categoriaCorredor": "temperos_e_especiarias"
+  },
+  {
+    "id": "curry",
+    "nome": "Curry",
+    "categoriaCorredor": "temperos_e_especiarias"
+  },
+  {
+    "id": "curry_em_po",
+    "nome": "Curry Em Pó",
+    "categoriaCorredor": "temperos_e_especiarias"
+  },
+  {
+    "id": "embalagem_de_leite_condensado",
+    "nome": "Embalagem De Leite Condensado",
+    "categoriaCorredor": "laticinios_e_ovos"
+  },
+  {
+    "id": "ervas",
+    "nome": "Ervas",
+    "categoriaCorredor": "hortifruti"
+  },
+  {
+    "id": "ervas_frescas_ou_secas",
+    "nome": "Ervas Frescas Ou Secas",
+    "categoriaCorredor": "hortifruti"
+  },
+  {
+    "id": "ervilha_seca_partida",
+    "nome": "Ervilha Seca Partida",
+    "categoriaCorredor": "proteinas_vegetais"
+  },
+  {
+    "id": "ervilha_verde_seca_partida",
+    "nome": "Ervilha Verde Seca Partida",
+    "categoriaCorredor": "proteinas_vegetais"
+  },
+  {
+    "id": "espaguete",
+    "nome": "Espaguete",
+    "categoriaCorredor": "padaria"
+  },
+  {
+    "id": "espaguete_integral_ou_de_grano_duro",
+    "nome": "Espaguete Integral Ou De Grano Duro",
+    "categoriaCorredor": "padaria"
+  },
+  {
+    "id": "espinafre",
+    "nome": "Espinafre",
+    "categoriaCorredor": "hortifruti"
+  },
+  {
+    "id": "espinafre_baby",
+    "nome": "Espinafre Baby",
+    "categoriaCorredor": "hortifruti"
+  },
+  {
+    "id": "espinafre_folhas",
+    "nome": "Espinafre Folhas",
+    "categoriaCorredor": "hortifruti"
+  },
+  {
+    "id": "espinafre_ou_couve",
+    "nome": "Espinafre Ou Couve",
+    "categoriaCorredor": "hortifruti"
+  },
+  {
+    "id": "estragao_ou_alecrim",
+    "nome": "Estragão Ou Alecrim",
+    "categoriaCorredor": "hortifruti"
+  },
+  {
+    "id": "extrato_de_tomate",
+    "nome": "Extrato de tomate",
+    "categoriaCorredor": "mercearia"
+  },
+  {
+    "id": "farinha_de_rosca",
+    "nome": "Farinha De Rosca Tostada",
+    "categoriaCorredor": "padaria"
+  },
+  {
+    "id": "farinha_de_trigo",
+    "nome": "Farinha de trigo",
+    "categoriaCorredor": "mercearia"
+  },
+  {
+    "id": "farinha_integral",
+    "nome": "Farinha Integral",
+    "categoriaCorredor": "mercearia"
+  },
+  {
+    "id": "feijao_azuki",
+    "nome": "Feijão Azuki",
+    "categoriaCorredor": "proteinas_vegetais"
+  },
+  {
+    "id": "feijao_de_sua_preferencia",
+    "nome": "Feijão De Sua Preferência",
+    "categoriaCorredor": "proteinas_vegetais"
+  },
+  {
+    "id": "feijao_kidney",
+    "nome": "Feijão Kidney",
+    "categoriaCorredor": "proteinas_vegetais"
+  },
+  {
+    "id": "feijao-branco_seco_demolhado_durante_a_noite",
+    "nome": "Feijão-branco Seco, Demolhado Durante A Noite",
+    "categoriaCorredor": "proteinas_vegetais"
+  },
+  {
+    "id": "feijao-fradinho_seco",
+    "nome": "Feijão-fradinho Seco",
+    "categoriaCorredor": "proteinas_vegetais"
+  },
+  {
+    "id": "feijao-preto",
+    "nome": "Feijão-preto",
+    "categoriaCorredor": "proteinas_vegetais"
+  },
+  {
+    "id": "feijao-preto_seco_de_molho_de_um_dia_para_o_outro_ou_ao_menos_30_min_em_agua_bem_quente",
+    "nome": "Feijão-preto Seco, De Molho De Um Dia Para O Outro Ou Ao Menos 30 Min Em Água Bem Quente",
+    "categoriaCorredor": "agua_e_gelo"
+  },
+  {
+    "id": "feno-grego_seco",
+    "nome": "Feno-grego Seco",
+    "categoriaCorredor": "temperos_e_especiarias"
+  },
+  {
+    "id": "fermento",
+    "nome": "Fermento",
+    "categoriaCorredor": "mercearia"
+  },
+  {
+    "id": "fermento_quimico",
+    "nome": "Fermento Químico",
+    "categoriaCorredor": "mercearia"
+  },
+  {
+    "id": "fish_sauce_opcional_da_fonte_-_omitir",
+    "nome": "Fish Sauce Opcional Da Fonte - Omitir",
+    "categoriaCorredor": "mercearia"
+  },
+  {
+    "id": "fish_sauce_vegano_molho_de_soja_extra",
+    "nome": "Fish Sauce Vegano Molho De Soja Extra",
+    "categoriaCorredor": "proteinas_vegetais"
+  },
+  {
+    "id": "floretes_de_couve-flor",
+    "nome": "Floretes De Couve-flor",
+    "categoriaCorredor": "hortifruti"
+  },
+  {
+    "id": "folhas_de_lasanha",
+    "nome": "Folhas De Lasanha",
+    "categoriaCorredor": "padaria"
+  },
+  {
+    "id": "garam_masala",
+    "nome": "Garam masala",
+    "categoriaCorredor": "temperos_e_especiarias"
+  },
+  {
+    "id": "garam_masala_ou_1-15_colher_de_biryani_masala",
+    "nome": "Garam Masala Ou 1-1,5 Colher De Biryani Masala",
+    "categoriaCorredor": "temperos_e_especiarias"
+  },
+  {
+    "id": "gema",
+    "nome": "Gemas",
+    "categoriaCorredor": "laticinios_e_ovos"
+  },
+  {
+    "id": "gengibre",
+    "nome": "Gengibre",
+    "categoriaCorredor": "hortifruti"
+  },
+  {
+    "id": "ghee_divididas_ou_2_de_oleo",
+    "nome": "Ghee, Divididas, Ou 2 De Óleo",
+    "categoriaCorredor": "laticinios_e_ovos"
+  },
+  {
+    "id": "graham_crackers_biscoitos",
+    "nome": "Graham Crackers Biscoitos",
+    "categoriaCorredor": "padaria"
+  },
+  {
+    "id": "granulado",
+    "nome": "Granulado",
+    "categoriaCorredor": "mercearia"
+  },
+  {
+    "id": "granulado_de_chocolate_ou_confeitos_para_decorar",
+    "nome": "Granulado De Chocolate Ou Confeitos Para Decorar",
+    "categoriaCorredor": "mercearia"
+  },
+  {
+    "id": "grao-de-bico_cozido",
+    "nome": "Grão-de-bico Cozido",
+    "categoriaCorredor": "proteinas_vegetais"
+  },
+  {
+    "id": "grao-de-bico_cru",
+    "nome": "Grão-de-bico Cru",
+    "categoriaCorredor": "proteinas_vegetais"
+  },
+  {
+    "id": "grao-de-bico_seco",
+    "nome": "Grão-de-bico Seco",
+    "categoriaCorredor": "proteinas_vegetais"
+  },
+  {
+    "id": "grao-de-bico_seco_demolhado",
+    "nome": "Grão-de-bico Seco Demolhado",
+    "categoriaCorredor": "proteinas_vegetais"
+  },
+  {
+    "id": "gremolata_salsa_1_alho_1_limao_sal",
+    "nome": "Gremolata: Salsa + 1 Alho + 1 Limão + Sal",
+    "categoriaCorredor": "hortifruti"
+  },
+  {
+    "id": "inteira_de_alho",
+    "nome": "Inteira De Alho",
+    "categoriaCorredor": "hortifruti"
+  },
+  {
+    "id": "iogurte_vegetal",
+    "nome": "Iogurte Vegetal",
+    "categoriaCorredor": "laticinios_e_ovos"
+  },
+  {
+    "id": "jaca_verde_de_565_g",
+    "nome": "Jaca Verde De 565 G",
+    "categoriaCorredor": "hortifruti"
+  },
+  {
+    "id": "jaggery_acucar_mascavo",
+    "nome": "Jaggery Açúcar Mascavo",
+    "categoriaCorredor": "mercearia"
+  },
+  {
+    "id": "jalapeno",
+    "nome": "Jalapeño",
+    "categoriaCorredor": "hortifruti"
+  },
+  {
+    "id": "jalapeno_ou_1_4_xicara_de_pimentao_verde",
+    "nome": "Jalapeño Ou 1 4 Xícara De Pimentão Verde",
+    "categoriaCorredor": "hortifruti"
+  },
+  {
+    "id": "kasuri_methi_ou_1_4_colher_de_mostarda_em_po",
+    "nome": "Kasuri Methi Ou 1 4 Colher De Mostarda Em Pó",
+    "categoriaCorredor": "temperos_e_especiarias"
+  },
+  {
+    "id": "lata_de_acucar_para_o_caramelo",
+    "nome": "Lata De Açúcar Para O Caramelo",
+    "categoriaCorredor": "mercearia"
+  },
+  {
+    "id": "lata_de_leite",
+    "nome": "Lata De Leite",
+    "categoriaCorredor": "laticinios_e_ovos"
+  },
+  {
+    "id": "legumes",
+    "nome": "Legumes",
+    "categoriaCorredor": "outros"
+  },
+  {
+    "id": "leite",
+    "nome": "Leite",
+    "categoriaCorredor": "laticinios_e_ovos"
+  },
+  {
+    "id": "leite_condensado",
+    "nome": "Leite condensado",
+    "categoriaCorredor": "laticinios_e_ovos"
+  },
+  {
+    "id": "leite_de_coco",
+    "nome": "Leite De Coco",
+    "categoriaCorredor": "hortifruti"
+  },
+  {
+    "id": "leite_de_coco_625_g_de_acucar_1_pitada_de_sal",
+    "nome": "Leite De Coco + 62,5 G De Açúcar + 1 Pitada De Sal",
+    "categoriaCorredor": "hortifruti"
+  },
+  {
+    "id": "leite_de_coco_integral",
+    "nome": "Leite De Coco Integral",
+    "categoriaCorredor": "hortifruti"
+  },
+  {
+    "id": "leite_de_coco_light",
+    "nome": "Leite De Coco Light",
+    "categoriaCorredor": "hortifruti"
+  },
+  {
+    "id": "leite_de_coco_total_25_g_de_acucar_10_g_de_amido_2_pitadas_de_sal",
+    "nome": "Leite De Coco Total + 25 G De Açúcar + 10 G De Amido + 2 Pitadas De Sal",
+    "categoriaCorredor": "hortifruti"
+  },
+  {
+    "id": "leite_de_soja",
+    "nome": "Leite De Soja",
+    "categoriaCorredor": "laticinios_e_ovos"
+  },
+  {
+    "id": "leite_vegetal",
+    "nome": "Leite Vegetal",
+    "categoriaCorredor": "laticinios_e_ovos"
+  },
+  {
+    "id": "lentilha_verde",
+    "nome": "Lentilha Verde",
+    "categoriaCorredor": "proteinas_vegetais"
+  },
+  {
+    "id": "lentilha_vermelha",
+    "nome": "Lentilha Vermelha",
+    "categoriaCorredor": "proteinas_vegetais"
+  },
+  {
+    "id": "lentilha_vermelha_partida_crua",
+    "nome": "Lentilha Vermelha Partida, Crua",
+    "categoriaCorredor": "proteinas_vegetais"
+  },
+  {
+    "id": "lentilha_vermelha_partida_mung_dal_rapido_ou_mistura",
+    "nome": "Lentilha Vermelha Partida, Mung Dal Rápido Ou Mistura",
+    "categoriaCorredor": "proteinas_vegetais"
+  },
+  {
+    "id": "lentilha_vermelha_seca_e_partida",
+    "nome": "Lentilha Vermelha SECA E PARTIDA",
+    "categoriaCorredor": "proteinas_vegetais"
+  },
+  {
+    "id": "levedura_nutricional",
+    "nome": "Levedura Nutricional",
+    "categoriaCorredor": "mercearia"
+  },
+  {
+    "id": "limao",
+    "nome": "Limão",
+    "categoriaCorredor": "hortifruti"
+  },
+  {
+    "id": "louro",
+    "nome": "Louro (folha)",
+    "categoriaCorredor": "temperos_e_especiarias"
+  },
+  {
+    "id": "louro_ou_6_folhas_de_curry",
+    "nome": "Louro Ou 6 Folhas De Curry",
+    "categoriaCorredor": "hortifruti"
+  },
+  {
+    "id": "macas_com_ou_sem_casca",
+    "nome": "Maçãs, , Com Ou Sem Casca",
+    "categoriaCorredor": "hortifruti"
+  },
+  {
+    "id": "macas_e_sem_miolo_com_ou_sem_casca",
+    "nome": "Maçãs, E Sem Miolo, Com Ou Sem Casca",
+    "categoriaCorredor": "hortifruti"
+  },
+  {
+    "id": "mais_de_acucar_adocante",
+    "nome": "Mais De Açúcar Adoçante",
+    "categoriaCorredor": "mercearia"
+  },
+  {
+    "id": "creme_de_castanha_caseiro",
+    "nome": "Mais De Creme De Castanha Caseiro Ou Creme Vegetal, Opcional, Depois Da Pressão",
+    "categoriaCorredor": "mercearia"
+  },
+  {
+    "id": "mais_de_garam_masala",
+    "nome": "Mais De Garam Masala",
+    "categoriaCorredor": "temperos_e_especiarias"
+  },
+  {
+    "id": "manga",
+    "nome": "Manga",
+    "categoriaCorredor": "hortifruti"
+  },
+  {
+    "id": "manjericao",
+    "nome": "Manjericão",
+    "categoriaCorredor": "hortifruti"
+  },
+  {
+    "id": "manjericao_seco",
+    "nome": "Manjericão Seco",
+    "categoriaCorredor": "hortifruti"
+  },
+  {
+    "id": "manteiga",
+    "nome": "Manteiga",
+    "categoriaCorredor": "laticinios_e_ovos"
+  },
+  {
+    "id": "manteiga_sem_sal_ou_azeite",
+    "nome": "Manteiga Sem Sal Ou Azeite",
+    "categoriaCorredor": "laticinios_e_ovos"
+  },
+  {
+    "id": "manteiga_vegana",
+    "nome": "Manteiga Vegana",
+    "categoriaCorredor": "laticinios_e_ovos"
+  },
+  {
+    "id": "manteiga_vegana_ou_azeite",
+    "nome": "Manteiga Vegana Ou Azeite",
+    "categoriaCorredor": "laticinios_e_ovos"
+  },
+  {
+    "id": "mel",
+    "nome": "Mel",
+    "categoriaCorredor": "mercearia"
+  },
+  {
+    "id": "mirtilo",
+    "nome": "Mirtilos",
+    "categoriaCorredor": "hortifruti"
+  },
+  {
+    "id": "mistura_alcalina_3_g_1_2_colher_de_bicarbonato_45_ml_3_colheres_de_agua_morna",
+    "nome": "Mistura Alcalina: 3 G 1 2 Colher De Bicarbonato + 45 Ml 3 Colheres De Água Morna",
+    "categoriaCorredor": "agua_e_gelo"
+  },
+  {
+    "id": "molho_de_soja",
+    "nome": "Molho de soja",
+    "categoriaCorredor": "proteinas_vegetais"
+  },
+  {
+    "id": "molho_de_tomate",
+    "nome": "Molho De Tomate",
+    "categoriaCorredor": "mercearia"
+  },
+  {
+    "id": "molho_picante",
+    "nome": "Molho Picante",
+    "categoriaCorredor": "mercearia"
+  },
+  {
+    "id": "mostarda",
+    "nome": "Mostarda",
+    "categoriaCorredor": "temperos_e_especiarias"
+  },
+  {
+    "id": "mostarda_em_po",
+    "nome": "Mostarda Em Pó",
+    "categoriaCorredor": "temperos_e_especiarias"
+  },
+  {
+    "id": "noz-moscada",
+    "nome": "Noz-moscada",
+    "categoriaCorredor": "temperos_e_especiarias"
+  },
+  {
+    "id": "noz-moscada_generosa",
+    "nome": "Noz-moscada Generosa",
+    "categoriaCorredor": "temperos_e_especiarias"
+  },
+  {
+    "id": "oleo",
+    "nome": "Óleo",
+    "categoriaCorredor": "mercearia"
+  },
+  {
+    "id": "oleo_de_coco",
+    "nome": "Óleo De Coco",
+    "categoriaCorredor": "hortifruti"
+  },
+  {
+    "id": "oleo_de_mostarda_ou_outro_oleo",
+    "nome": "Óleo De Mostarda Ou Outro Óleo",
+    "categoriaCorredor": "temperos_e_especiarias"
+  },
+  {
+    "id": "oleo_ou_azeite",
+    "nome": "Óleo Ou Azeite",
+    "categoriaCorredor": "mercearia"
+  },
+  {
+    "id": "opcional_da_fonte_1_colher_de_amido_para_ficar_mais_firme",
+    "nome": "Opcional Da Fonte: 1 Colher De Amido Para Ficar Mais Firme",
+    "categoriaCorredor": "mercearia"
+  },
+  {
+    "id": "oregano",
+    "nome": "Orégano",
+    "categoriaCorredor": "temperos_e_especiarias"
+  },
+  {
+    "id": "outros_legumes",
+    "nome": "Outros Legumes",
+    "categoriaCorredor": "outros"
+  },
+  {
+    "id": "outros_toppings",
+    "nome": "Outros Toppings",
+    "categoriaCorredor": "mercearia"
+  },
+  {
+    "id": "ovo",
+    "nome": "Ovo",
+    "categoriaCorredor": "laticinios_e_ovos"
+  },
+  {
+    "id": "ovos",
+    "nome": "Ovos",
+    "categoriaCorredor": "laticinios_e_ovos"
+  },
+  {
+    "id": "pacocas",
+    "nome": "Paçocas",
+    "categoriaCorredor": "mercearia"
+  },
+  {
+    "id": "palmito",
+    "nome": "Palmito",
+    "categoriaCorredor": "mercearia"
+  },
+  {
+    "id": "papel-aluminio",
+    "nome": "Papel-alumínio",
+    "categoriaCorredor": "outros"
+  },
+  {
+    "id": "paprica",
+    "nome": "Páprica",
+    "categoriaCorredor": "temperos_e_especiarias"
+  },
+  {
+    "id": "paprica_defumada",
+    "nome": "Páprica Defumada",
+    "categoriaCorredor": "temperos_e_especiarias"
+  },
+  {
+    "id": "paprica_ou_chili_kashmiri",
+    "nome": "Páprica Ou Chili Kashmiri",
+    "categoriaCorredor": "temperos_e_especiarias"
+  },
+  {
+    "id": "para_4_queijos_1_xicara_de_queijos_variados_apos_abrir",
+    "nome": "Para 4 Queijos: 1 Xícara De Queijos Variados Após Abrir",
+    "categoriaCorredor": "laticinios_e_ovos"
+  },
+  {
+    "id": "para_mais_caldo_massa_integral_mais_vegetais",
+    "nome": "Para Mais Caldo Massa Integral Mais Vegetais",
+    "categoriaCorredor": "padaria"
+  },
+  {
+    "id": "parmesao",
+    "nome": "Parmesão",
+    "categoriaCorredor": "laticinios_e_ovos"
+  },
+  {
+    "id": "parmesao_vegano",
+    "nome": "Parmesão Vegano",
+    "categoriaCorredor": "laticinios_e_ovos"
+  },
+  {
+    "id": "parmesao_vegano_ou_levedura_nutricional",
+    "nome": "Parmesão Vegano Ou Levedura Nutricional",
+    "categoriaCorredor": "laticinios_e_ovos"
+  },
+  {
+    "id": "pasta_de_curry_vermelho",
+    "nome": "Pasta De Curry Vermelho",
+    "categoriaCorredor": "temperos_e_especiarias"
+  },
+  {
+    "id": "penne",
+    "nome": "Penne",
+    "categoriaCorredor": "padaria"
+  },
+  {
+    "id": "pesto_ricota_vegana_mucarela_vegana",
+    "nome": "Pesto Ricota Vegana Muçarela Vegana",
+    "categoriaCorredor": "mercearia"
+  },
+  {
+    "id": "cayenne",
+    "nome": "Pimenta caiena",
+    "categoriaCorredor": "temperos_e_especiarias"
+  },
+  {
+    "id": "pimenta_da_fonte",
+    "nome": "Pimenta Da Fonte",
+    "categoriaCorredor": "temperos_e_especiarias"
+  },
+  {
+    "id": "pimenta_verde_ou_2_colheres_de_pimentao",
+    "nome": "Pimenta Verde Ou 2 Colheres De Pimentão",
+    "categoriaCorredor": "hortifruti"
+  },
+  {
+    "id": "pimenta_verde",
+    "nome": "Pimenta verde/chili fresco",
+    "categoriaCorredor": "hortifruti"
+  },
+  {
+    "id": "pimenta_vermelha_ou_malagueta",
+    "nome": "Pimenta Vermelha Ou Malagueta",
+    "categoriaCorredor": "temperos_e_especiarias"
+  },
+  {
+    "id": "pimenta_do_reino",
+    "nome": "Pimenta-do-reino",
+    "categoriaCorredor": "temperos_e_especiarias"
+  },
+  {
+    "id": "pimentao",
+    "nome": "Pimentão Ou Outros Legumes",
+    "categoriaCorredor": "hortifruti"
+  },
+  {
+    "id": "pimentao_vermelho_ou_verde",
+    "nome": "Pimentão Vermelho Ou Verde",
+    "categoriaCorredor": "hortifruti"
+  },
+  {
+    "id": "pimentas_preta_branca_e_cerca_de_1_3_colher_de_pimenta_em_flocos",
+    "nome": "Pimentas Preta Branca E Cerca De 1 3 Colher De Pimenta Em Flocos",
+    "categoriaCorredor": "temperos_e_especiarias"
+  },
+  {
+    "id": "pimenta_serrano",
+    "nome": "Pimentas Serrano",
+    "categoriaCorredor": "hortifruti"
+  },
+  {
+    "id": "polpa_de_tomate",
+    "nome": "Polpa De Tomate",
+    "categoriaCorredor": "mercearia"
+  },
+  {
+    "id": "porcini_secos",
+    "nome": "Porcini Secos",
+    "categoriaCorredor": "hortifruti"
+  },
+  {
+    "id": "poultry_seasoning_vegetal",
+    "nome": "Poultry Seasoning Vegetal",
+    "categoriaCorredor": "temperos_e_especiarias"
+  },
+  {
+    "id": "poultry_seasoning_vegetal_ou_mistura_de_tomilho_salvia_alecrim_e_cebola_em_po",
+    "nome": "Poultry Seasoning Vegetal Ou Mistura De Tomilho, Sálvia, Alecrim E Cebola Em Pó",
+    "categoriaCorredor": "hortifruti"
+  },
+  {
+    "id": "pts_fina_seca",
+    "nome": "PTS Fina Seca",
+    "categoriaCorredor": "proteinas_vegetais"
+  },
+  {
+    "id": "pts_soja_grossa_seca",
+    "nome": "PTS Soja Grossa Seca",
+    "categoriaCorredor": "proteinas_vegetais"
+  },
+  {
+    "id": "pure_de_tomate",
+    "nome": "Purê De Tomate",
+    "categoriaCorredor": "mercearia"
+  },
+  {
+    "id": "quinoa",
+    "nome": "Quinoa",
+    "categoriaCorredor": "proteinas_vegetais"
+  },
+  {
+    "id": "requeijao_cremoso",
+    "nome": "Requeijão Cremoso",
+    "categoriaCorredor": "laticinios_e_ovos"
+  },
+  {
+    "id": "sal",
+    "nome": "Sal",
+    "categoriaCorredor": "temperos_e_especiarias"
+  },
+  {
+    "id": "salsa",
+    "nome": "Salsa",
+    "categoriaCorredor": "hortifruti"
+  },
+  {
+    "id": "salsa_mexicana_pronta_ou_tomate",
+    "nome": "Salsa Mexicana Pronta Ou Tomate",
+    "categoriaCorredor": "hortifruti"
+  },
+  {
+    "id": "salsa_ou_manjericao_fresco",
+    "nome": "Salsa Ou Manjericão Fresco",
+    "categoriaCorredor": "hortifruti"
+  },
+  {
+    "id": "salsa_seca_ou_ervas_italianas",
+    "nome": "Salsa Seca Ou Ervas Italianas",
+    "categoriaCorredor": "hortifruti"
+  },
+  {
+    "id": "salsao",
+    "nome": "Salsão",
+    "categoriaCorredor": "hortifruti"
+  },
+  {
+    "id": "salvia_fresca",
+    "nome": "Sálvia Fresca",
+    "categoriaCorredor": "hortifruti"
+  },
+  {
+    "id": "se_for_demolhar_17_g_de_sal_1_litro_de_agua_fria",
+    "nome": "Se For Demolhar: 17 G De Sal + 1 Litro De Água Fria",
+    "categoriaCorredor": "agua_e_gelo"
+  },
+  {
+    "id": "se_os_tomates_tiverem_pouco_suco",
+    "nome": "Se Os Tomates Tiverem Pouco Suco",
+    "categoriaCorredor": "mercearia"
+  },
+  {
+    "id": "sementes_de_cominho_ou_1_2_colher_de_mostarda",
+    "nome": "Sementes De Cominho Ou 1 2 Colher De Mostarda",
+    "categoriaCorredor": "temperos_e_especiarias"
+  },
+  {
+    "id": "sementes_de_funcho",
+    "nome": "Sementes De Funcho",
+    "categoriaCorredor": "hortifruti"
+  },
+  {
+    "id": "sementes_de_girassol_para_opcao_sem_castanhas",
+    "nome": "Sementes De Girassol Para Opção Sem Castanhas",
+    "categoriaCorredor": "mercearia"
+  },
+  {
+    "id": "sementes_de_mostarda",
+    "nome": "Sementes De Mostarda",
+    "categoriaCorredor": "temperos_e_especiarias"
+  },
+  {
+    "id": "sementes_de_mostarda_preta",
+    "nome": "Sementes De Mostarda Preta",
+    "categoriaCorredor": "temperos_e_especiarias"
+  },
+  {
+    "id": "sour_cream",
+    "nome": "Sour Cream",
+    "categoriaCorredor": "laticinios_e_ovos"
+  },
+  {
+    "id": "soy_curls_secos",
+    "nome": "Soy Curls SECOS",
+    "categoriaCorredor": "proteinas_vegetais"
+  },
+  {
+    "id": "taco_seasoning",
+    "nome": "Taco Seasoning",
+    "categoriaCorredor": "temperos_e_especiarias"
+  },
+  {
+    "id": "talo_de_salsao",
+    "nome": "Talo De Salsão",
+    "categoriaCorredor": "hortifruti"
+  },
+  {
+    "id": "talos_de_salsao",
+    "nome": "Talos De Salsão",
+    "categoriaCorredor": "hortifruti"
+  },
+  {
+    "id": "talos_de_salsao_em_pedacos",
+    "nome": "Talos De Salsão Em Pedaços",
+    "categoriaCorredor": "hortifruti"
+  },
+  {
+    "id": "tamarindo",
+    "nome": "Tamarindo",
+    "categoriaCorredor": "mercearia"
+  },
+  {
+    "id": "tempero_italiano",
+    "nome": "Tempero Italiano",
+    "categoriaCorredor": "temperos_e_especiarias"
+  },
+  {
+    "id": "tomate",
+    "nome": "Tomate",
+    "categoriaCorredor": "mercearia"
+  },
+  {
+    "id": "tomate_assado_fogo",
+    "nome": "Tomate Assado Fogo",
+    "categoriaCorredor": "mercearia"
+  },
+  {
+    "id": "tomate_enlatado",
+    "nome": "Tomate Enlatado",
+    "categoriaCorredor": "mercearia"
+  },
+  {
+    "id": "tomate_ou_2_colheres_de_extrato",
+    "nome": "Tomate Ou 2 Colheres De Extrato",
+    "categoriaCorredor": "mercearia"
+  },
+  {
+    "id": "tomates_esmagados_a_mao",
+    "nome": "Tomates Esmagados À Mão",
+    "categoriaCorredor": "mercearia"
+  },
+  {
+    "id": "tomates_maduros_ou_1_lata_de_15_oz_de_tomate",
+    "nome": "Tomates Maduros Ou 1 Lata De 15 Oz De Tomate",
+    "categoriaCorredor": "mercearia"
+  },
+  {
+    "id": "tomilho",
+    "nome": "Tomilho",
+    "categoriaCorredor": "temperos_e_especiarias"
+  },
+  {
+    "id": "tomilho_fresco",
+    "nome": "Tomilho Fresco",
+    "categoriaCorredor": "hortifruti"
+  },
+  {
+    "id": "tomilho_ou_1_colher_de_alecrim_fresco",
+    "nome": "Tomilho Ou 1 Colher De Alecrim Fresco",
+    "categoriaCorredor": "hortifruti"
+  },
+  {
+    "id": "toor_dal",
+    "nome": "Toor Dal",
+    "categoriaCorredor": "proteinas_vegetais"
+  },
+  {
+    "id": "um_pouco_de_sherry_para_deglacear",
+    "nome": "Um Pouco De Sherry Para Deglacear",
+    "categoriaCorredor": "bebidas"
+  },
+  {
+    "id": "vinho_tinto",
+    "nome": "Vinho Tinto",
+    "categoriaCorredor": "bebidas"
+  },
+  {
+    "id": "wild_rice_blend_ou_arroz_selvagem_puro",
+    "nome": "Wild Rice Blend Ou Arroz Selvagem Puro",
+    "categoriaCorredor": "proteinas_vegetais"
+  },
+  {
+    "id": "worcestershire_vegetariano_vegano",
+    "nome": "Worcestershire Vegetariano Vegano",
+    "categoriaCorredor": "mercearia"
+  }
+]
