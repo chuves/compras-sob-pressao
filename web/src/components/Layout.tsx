@@ -2,8 +2,8 @@ import { NavLink, Outlet } from "react-router-dom";
 
 const NAV_ITEMS = [
   { to: "/", label: "Receitas", end: true },
-  { to: "/semana", label: "Minha semana" },
-  { to: "/historico", label: "Histórico" },
+  { to: "/semana", label: "Prévia da lista" },
+  { to: "/historico", label: "Listas prontas" },
   { to: "/favoritos", label: "Favoritos" },
 ];
 

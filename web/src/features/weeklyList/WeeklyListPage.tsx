@@ -32,7 +32,11 @@ export function WeeklyListPage() {
 
   return (
     <div className="mx-auto max-w-3xl">
-      <h1 className="mb-4 text-2xl font-semibold">Minha semana</h1>
+      <h1 className="mb-4 text-2xl font-semibold">Prévia da lista</h1>
+      <p className="mb-4 text-sm text-stone-500 dark:text-stone-400">
+        Escolha as receitas da semana e veja o que vai entrar na lista de compras antes de
+        salvar.
+      </p>
 
       {recipesInSelection.length === 0 ? (
         <p className="text-stone-500">

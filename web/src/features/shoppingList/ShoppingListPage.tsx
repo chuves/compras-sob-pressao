@@ -44,7 +44,7 @@ export function ShoppingListPage() {
       <div>
         <p>Lista não encontrada.</p>
         <Link to="/historico" className="text-emerald-700 underline dark:text-emerald-400">
-          Ver histórico
+          Ver listas prontas
         </Link>
       </div>
     );

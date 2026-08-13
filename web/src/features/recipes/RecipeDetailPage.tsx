@@ -124,7 +124,7 @@ export function RecipeDetailPage() {
       )}
 
       <div className="mt-6 rounded-lg border border-emerald-200 bg-emerald-50 p-4 dark:border-emerald-900 dark:bg-emerald-950/30">
-        <p className="mb-2 text-sm font-medium">Adicionar à minha semana</p>
+        <p className="mb-2 text-sm font-medium">Adicionar à prévia da lista</p>
         <div className="flex flex-wrap items-center gap-3">
           <label className="flex items-center gap-2 text-sm">
             Multiplicador
@@ -149,7 +149,7 @@ export function RecipeDetailPage() {
               }
               addRecipe(recipe.slug, multiplicador);
               navigate("/", {
-                state: { flashMessage: `"${recipe.title}" adicionada à sua semana com sucesso!` },
+                state: { flashMessage: `"${recipe.title}" adicionada à prévia da lista com sucesso!` },
               });
             }}
             className={`rounded-full px-4 py-1.5 text-sm font-medium ${
@@ -158,11 +158,11 @@ export function RecipeDetailPage() {
                 : "bg-emerald-600 text-white hover:bg-emerald-700"
             }`}
           >
-            {selected ? "Remover da semana" : "Adicionar à semana"}
+            {selected ? "Remover da lista" : "Adicionar à lista"}
           </button>
           {selected && (
             <Link to="/semana" className="text-sm text-emerald-700 underline dark:text-emerald-400">
-              ver minha semana →
+              ver prévia da lista →
             </Link>
           )}
         </div>
