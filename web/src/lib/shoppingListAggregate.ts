@@ -154,10 +154,14 @@ export function formatQuantities(line: AggregatedLine): string[] {
   }
 
   for (const [unidade, quantidade] of Object.entries(line.porUnidade)) {
-    const display = DISCRETE_UNITS.has(unidade)
-      ? Math.ceil(quantidade - 1e-9)
-      : Math.round(quantidade * 100) / 100;
-    parts.push(`${formatNumber(display)} ${unitLabel(unidade, display)}`);
+    if (DISCRETE_UNITS.has(unidade)) {
+      const display = Math.ceil(quantidade - 1e-9);
+      parts.push(`${display} ${unitLabel(unidade, display)}`);
+    } else {
+      // Spoons/cups are measured in fractions in real kitchens, not decimals
+      // — "1/8 colher (chá)", never "0.13 colheres (chá)".
+      parts.push(`${formatQuantityAsFraction(quantidade)} ${unitLabel(unidade, quantidade)}`);
+    }
   }
 
   if (parts.length === 0) {
@@ -212,5 +216,38 @@ const UNIT_LABELS: Record<string, [string, string]> = {
 function unitLabel(unidade: string, quantidade: number): string {
   const pair = UNIT_LABELS[unidade];
   if (!pair) return unidade;
-  return quantidade === 1 ? pair[0] : pair[1];
+  // "1/8 colher", not "1/8 colheres" — anything at or under one whole unit reads as singular.
+  return quantidade <= 1 ? pair[0] : pair[1];
+}
+
+// Common denominators real measuring spoons/cups come in, checked simplest-first.
+const FRACTION_DENOMINATORS = [2, 3, 4, 8];
+
+function gcd(a: number, b: number): number {
+  return b === 0 ? a : gcd(b, a % b);
+}
+
+/**
+ * Formats a quantity the way a kitchen measuring spoon/cup actually reads:
+ * whole numbers as-is, fractional parts as the closest common fraction
+ * (1/8, 1/4, 1/3, 1/2, 2/3, 3/4, ...) rather than a decimal like "0.13".
+ * Falls back to a 2-decimal number only if no common fraction is close.
+ */
+function formatQuantityAsFraction(value: number): string {
+  const whole = Math.floor(value + 1e-9);
+  const frac = value - whole;
+
+  if (frac < 0.02) return String(whole);
+
+  for (const den of FRACTION_DENOMINATORS) {
+    const num = Math.round(frac * den);
+    if (num === 0 || num === den) continue;
+    if (Math.abs(frac - num / den) < 0.02) {
+      const g = gcd(num, den);
+      const fractionStr = `${num / g}/${den / g}`;
+      return whole > 0 ? `${whole} ${fractionStr}` : fractionStr;
+    }
+  }
+
+  return formatNumber(value);
 }

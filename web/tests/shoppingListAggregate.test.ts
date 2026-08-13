@@ -24,6 +24,11 @@ const CANONICAL: CanonicalIngredient[] = [
   { id: "farinha_de_trigo", nome: "Farinha de trigo", categoriaCorredor: "mercearia" },
   { id: "leite_condensado", nome: "Leite condensado", categoriaCorredor: "mercearia" },
   { id: "sal", nome: "Sal", categoriaCorredor: "temperos_e_especiarias" },
+  {
+    id: "sementes_de_funcho",
+    nome: "Sementes de funcho",
+    categoriaCorredor: "temperos_e_especiarias",
+  },
 ];
 
 const INGREDIENT_ROWS: IngredientRow[] = [
@@ -65,6 +70,14 @@ const INGREDIENT_ROWS: IngredientRow[] = [
     quantidade: 1,
     unidade: "lata",
     textoOriginal: "1 lata de leite condensado",
+  }),
+  row({
+    recipeSlug: "receita-b",
+    canonicalIngredientId: "sementes_de_funcho",
+    grupo: "secundario",
+    quantidade: 0.125,
+    unidade: "colher_cha",
+    textoOriginal: "1/8 colher (chá) de sementes de funcho",
   }),
 ];
 
@@ -175,5 +188,30 @@ describe("aggregateShoppingList", () => {
       quantidadeEscalada: 4,
       multiplicador: 2,
     });
+  });
+
+  it("formata colher/xícara fracionária como fração de cozinha, não decimal", () => {
+    const result = aggregateShoppingList(
+      [{ recipeSlug: "receita-b", multiplicador: 1 }],
+      DEPS,
+    );
+    const funcho = result.find((l) => l.canonicalIngredientId === "sementes_de_funcho")!;
+    expect(funcho.porUnidade.colher_cha).toBe(0.125);
+    // Not "0.13 colheres (chá)" — 1/8 tsp reads as a fraction, and singular
+    // ("colher", not "colheres") since it's under one whole spoon.
+    expect(formatQuantities(funcho)).toEqual(["1/8 colher (chá)"]);
+  });
+
+  it("soma frações de colher entre receitas e ainda mostra uma fração legível", () => {
+    const result = aggregateShoppingList(
+      [
+        { recipeSlug: "receita-b", multiplicador: 1 },
+        { recipeSlug: "receita-b", multiplicador: 1 },
+      ],
+      DEPS,
+    );
+    const funcho = result.find((l) => l.canonicalIngredientId === "sementes_de_funcho")!;
+    // 0.125 + 0.125 = 0.25 = 1/4 — still under one whole spoon, so still singular.
+    expect(formatQuantities(funcho)).toEqual(["1/4 colher (chá)"]);
   });
 });
