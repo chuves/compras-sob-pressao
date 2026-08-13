@@ -1,4 +1,4 @@
-import { Link, useParams } from "react-router-dom";
+import { Link, useNavigate, useParams } from "react-router-dom";
 import { getIngredientsForRecipe, recipesBySlug } from "../../data/loadStaticData";
 import { useFavorites } from "../favorites/useFavorites";
 import { useCurrentSelection } from "../weeklyList/useCurrentSelection";
@@ -56,6 +56,7 @@ export function RecipeDetailPage() {
   const { isFavorite, toggleFavorite } = useFavorites();
   const { isSelected, getMultiplicador, addRecipe, removeRecipe, updateMultiplicador } =
     useCurrentSelection();
+  const navigate = useNavigate();
 
   if (!recipe) {
     return (
@@ -141,9 +142,16 @@ export function RecipeDetailPage() {
           </label>
           <button
             type="button"
-            onClick={() =>
-              selected ? removeRecipe(recipe.slug) : addRecipe(recipe.slug, multiplicador)
-            }
+            onClick={() => {
+              if (selected) {
+                removeRecipe(recipe.slug);
+                return;
+              }
+              addRecipe(recipe.slug, multiplicador);
+              navigate("/", {
+                state: { flashMessage: `"${recipe.title}" adicionada à sua semana com sucesso!` },
+              });
+            }}
             className={`rounded-full px-4 py-1.5 text-sm font-medium ${
               selected
                 ? "bg-stone-200 text-stone-700 dark:bg-stone-700 dark:text-stone-200"

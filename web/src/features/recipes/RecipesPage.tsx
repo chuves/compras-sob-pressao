@@ -1,6 +1,7 @@
 import { useMemo, useState } from "react";
 import { recipes } from "../../data/loadStaticData";
 import { RecipeCard } from "../../components/RecipeCard";
+import { FlashMessage } from "../../components/FlashMessage";
 import { isRecipeTested, searchRecipes } from "../../lib/search";
 
 type CategoriaFiltro = "todos" | "salgado" | "doce";
@@ -20,6 +21,8 @@ export function RecipesPage() {
   return (
     <div>
       <h1 className="mb-4 text-2xl font-semibold">Receitas</h1>
+
+      <FlashMessage />
 
       <div className="mb-6 flex flex-col gap-3 sm:flex-row sm:items-center">
         <input
